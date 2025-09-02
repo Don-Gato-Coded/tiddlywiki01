@@ -1,0 +1,14 @@
+created: 20250110053637318
+creator: DonGato
+modified: 20250110114631861
+modifier: DonGato
+tags: linux cli shell
+title: Append timestamp to file
+type: text/vnd.tiddlywiki
+
+```
+mv file file.$(date -d "today" +"%Y%m%d%H%M")
+ls test2 | perl -lne '$date=`date '+%Y%m%d'`; chomp($date); `mv $_ $_$date`;
+cat somefile.log > $(date "+%Y.%m.%d-%H.%M.%S").ver
+ls > $(date "+%Y.%m.%d-%H.%M.%S").ver
+```

@@ -1,0 +1,11 @@
+modified: 20241207200035455
+tags: Home
+title: Start Here
+type: text/vnd.tiddlywiki
+
+* Set a title and subtitle at [[GettingStarted]]
+* Click <big><$let tv-config-toolbar-icons="yes" tv-config-toolbar-text="yes">{{$:/core/ui/Buttons/palette}}</$let></big> to choose a color scheme
+* Click <big><$button class="tc-btn-invisible"><$action-sendmessage $message="tm-new-tiddler" tags="Home" />{{$:/core/images/new-here-button}} {{$:/language/Buttons/NewHere/Caption}}</$button></big> to create a tiddler under [[Home]]
+* Click <big><$let tv-config-toolbar-icons="yes" tv-config-toolbar-text="yes">{{$:/core/ui/Buttons/save-wiki}}</$let></big> and confirm you can save
+* Learn more about [[MPTW5]] and [[TiddlyWiki|https://tiddlywiki.com/]]
+* (Optional) Delete the [[Start Here]] and [[MPTW5]] tiddlers
