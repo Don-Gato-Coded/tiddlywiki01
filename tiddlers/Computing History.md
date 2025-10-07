@@ -1,1 +1,0 @@
-[unix-at-50-it-starts-with-a-mainframe-a-gator-and-three-dedicated-researchers](https://arstechnica.com/gadgets/2019/08/unix-at-50-it-starts-with-a-mainframe-a-gator-and-three-dedicated-researchers)

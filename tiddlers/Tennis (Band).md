@@ -1,4 +1,0 @@
-Tennis is an American indie pop band from Denver which is made up of husband-and-wife duo Alaina Moore and Patrick Riley. The duo formed in 2010, and released their debut album, Cape Dory, in 2011. A second album, Young & Old, was released the next year. Their third album, Ritual in Repeat (2014) was released on Communion records.  
-[Wikipedia](https://en.wikipedia.org/wiki/Tennis_(band))  
-
-<p><a href="https://commons.wikimedia.org/wiki/File:Tennis_by_Tristan_Loper_2012.jpg#/media/File:Tennis_by_Tristan_Loper_2012.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Tennis_by_Tristan_Loper_2012.jpg" alt="Tennis performing in August 2012" height="480" width="550"></a><br>By Tristan Loper, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59708168">Link</a></p>
