@@ -1,0 +1,5 @@
+[marathonartists.com/hachiku](https://www.marathonartists.com/hachiku)  
+
+Years into her career, Anika Ostendorf, the singer, songwriter, and producer behind dream-pop band Hachiku, is ready to be vulnerable. Her second album, The Joys of Being Pure at Heart, marks a shift from observing life to embracing emotional openness and honesty. With themes of love, loss, and identity, the album reflects Ostendorf’s desire for deep connection and navigating anxieties around relationships. Songs like the new single, "Tell Your Friends You Love Them" emphasize vulnerability, hope, and community. The lead single "Time Wasted Worrying" carries a positive message of acceptance. Ostendorf’s ethos is shaped by her time at Milk! Records, a queer-run label that helped her find purpose and community. With a growing global following, Hachiku's latest album celebrates life’s little miracles, urging listeners to hold onto hope and joy, no matter what. "The Joys Of Being Pure At Heart" releases Feb 28th on Marathon Artists
+
+![Hachiku](https://images.squarespace-cdn.com/content/v1/5e1320fbbd3f9609c5ca8370/1614020742605-NFFBE30BCDH4VXMRXIRR/Hachiku+PORTRAIT.jpg)
